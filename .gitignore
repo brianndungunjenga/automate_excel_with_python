@@ -1,0 +1,6 @@
+build/
+dist/
+automate_finance_excel.exe
+automate_finance_excel.spec
+ __pycache__/
+
